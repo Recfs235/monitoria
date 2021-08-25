@@ -42,3 +42,23 @@ header button {
   color: white;
   font-weight: bold;
 }
+
+
+main {
+  display: flex;
+  justify-content: space-between;
+}
+
+.slogan {
+  display:flex;
+  flex-direction: column;
+  justify-content: space-around;
+}
+
+.inscricao {
+  background-color: #006dfb;
+  color: white;
+  width: fit-content;
+  padding: 10px;
+  border-radius: 5px;
+}
