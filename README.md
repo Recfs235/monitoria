@@ -3,9 +3,9 @@ O chefe da guilda requisita um relatório de combatentes que estejam aptos a ven
 
 **O que será avaliado:**
 
-O ataque do dragão será comparado com o HP do campeão, e também será comparado o ataque do campeão com o HP do dragão.
+O ataque do dragão será comparado com o HP de cada combatente, e também será comparado o ataque de cada combatente com o HP do dragão.
 
-Retorne um _array_ contendo um objeto para cada caso, com as informações do resultado da batalha e HP de cada um dos combatentes (se pelo menos um sobreviver).
+Retorne um _array_ contendo um objeto para cada caso, com as informações do resultado da batalha e HP de cada combatente (se pelo menos um ou uma sobreviver).
 
 **Resultados possíveis:**
   - Derrota o dragão e não sobrevive.
