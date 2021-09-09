@@ -11,6 +11,68 @@ const classes = {
 
 module.exports = {
   theMightyHofDragon: {attack: 90, hp: 100},
+  fighters: [
+    {
+      name: 'Rogerinho',
+      class: classes.barbarian,
+      age: 46,
+    },
+    {
+      name: 'Mubra',
+      class: classes.orc,
+      age: 38,
+    },
+    {
+      name: 'Magalu',
+      class: classes.alien,
+      age: 256,
+    },
+    {
+      name: 'Surida',
+      class: classes.warrior,
+      age: 12,
+    },
+    {
+      name: 'Nyka',
+      class: classes.thief,
+      age: 24,
+    },
+    {
+      name: 'Shera',
+      class: classes.elf,
+      age: 56,
+    },
+    {
+      name: 'Nailuc',
+      class: classes.human,
+      age: 28,
+    },
+    {
+      name: 'Dollynho',
+      class: classes.alien,
+      age: 10000,
+    },
+    {
+      name: 'Kaimao',
+      class: classes.orc,
+      age: 27,
+    },
+    {
+      name: 'SnoopDog',
+      class: classes.elf,
+      age: 420,
+    },
+    {
+      name: 'Nagamor',
+      class: classes.mage,
+      age: 88,
+    },
+    {
+      name: 'Togepi',
+      class: classes.barbarian,
+      age: 1,
+    },
+  ],
   fightersStats: {
     Rogerinho: { attack: 99, hp: 15},
     Mubra: { attack: 50, hp: 400 },
