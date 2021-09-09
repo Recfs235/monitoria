@@ -21,6 +21,7 @@ Exemplo:
 [
   ...
   { Thorin: "Derrota o dragão e não sobrevive." },
-  { Bilbo: "Não derrota o dragão e não sobrevive. O dragão sai com 26 de HP." }
+  { Bilbo: "Não derrota o dragão e não sobrevive. O dragão sai com 26 de HP." },
+  { Gandalf: "Derrota o dragão e sobrevive. Gandalf sai com 43 de HP." },
 ]
 ```
