@@ -4,7 +4,7 @@ possui a menor.
 
 **O que será avaliado:**
 
-Ao executar uma função, retorne uma _string_ com a mensagem:
+Retorne uma _string_ com a mensagem:
 ```js
 Jedi possui maestria. Padawan ainda é um pupilo.
 ```
