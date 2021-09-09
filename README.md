@@ -9,6 +9,23 @@ Retorne uma _string_ com a mensagem:
 Jedi possui maestria. Padawan ainda é um pupilo.
 ```
 
+## Média de idade por classe
+O censo da guilda solicita a média de idade de cada classe, com o objetivo de distribuir os benefícios de aposentadoria. Descubra a média de cada classe e ordene por ordem decrescente da média.
+
+> Obs: Arredonde as médias para um número inteiro.
+
+**O que será avaliado:**
+
+Retorne um _array_ de objetos com a seguinte estrutura:
+
+```js
+[
+  ...
+  { barbarian: 33 },
+  { alien: 27 },
+]
+```
+
 ## Quem sobrevive?
 O chefe da guilda requisita um relatório de combatentes que estejam aptos a vencer o dragão. Analise as informações que o nosso batedor conseguiu e produza esse relatório com HOF's.
 
