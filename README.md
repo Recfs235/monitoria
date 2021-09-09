@@ -1,3 +1,14 @@
+## Experiência de combate
+Estratégias precisam ser tomadas. É preciso saber qual combatente possui a maior idade, e qual
+possui a menor.
+
+**O que será avaliado:**
+
+Ao executar uma função, retorne uma _string_ com a mensagem:
+```js
+Jedi possui maestria. Padawan ainda é um pupilo.
+```
+
 ## Quem sobrevive?
 O chefe da guilda requisita um relatório de combatentes que estejam aptos a vencer o dragão. Analise as informações que o nosso batedor conseguiu e produza esse relatório com HOF's.
 
