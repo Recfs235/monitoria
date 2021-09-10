@@ -10,6 +10,7 @@ const classes = {
 }
 
 module.exports = {
+  classes,
   theMightyHofDragon: {attack: 90, hp: 100},
   fighters: [
     {
