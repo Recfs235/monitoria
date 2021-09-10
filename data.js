@@ -12,16 +12,6 @@ const classes = {
 module.exports = {
   classes,
   theMightyHofDragon: {attack: 90, hp: 100},
-  classes: {
-    barbarian: '0938aa23-f153-4937-9f88-4858b24d6bce',
-    mage: '533bebf3-6bbe-41d8-9cdf-46f7d13b62ae',
-    orc: 'bb2a76d8-5fe3-4d03-84b7-dba9cfc048b5',
-    human: '78460a91-f4da-4dea-a469-86fd2b8ccc84',
-    elf: '89be95b3-47e4-4c5b-b687-1fabf2afa274',
-    warrior: 'baa6e93a-f295-44e7-8f70-2bcdc6f6948d',
-    thief: 'e8481c1d-42ea-4610-8e11-1752cfc05a46',
-    alien: '9e7d4524-363c-416a-8759-8aa7e50c0992',
-  },
   fighters: [
     {
       name: 'Rogerinho',
